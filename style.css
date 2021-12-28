@@ -203,3 +203,12 @@ Size : 10 px;
   outline: none;
   font-weight: 500;
 }
+.button2{
+  padding: 8px 20px;
+  border: 2px solid white;
+  color: white;
+  background: none;
+  cursor: pointer;
+  outline: none;
+  font-weight: 500;
+}
