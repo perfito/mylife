@@ -194,3 +194,12 @@ body {
 .logo {
 Size : 10 px;
 }
+.button{
+  padding: 8px 20px;
+  border: 2px solid hsl(256, 26%, 20%);
+  color: hsl(256, 26%, 20%);
+  background: none;
+  cursor: pointer;
+  outline: none;
+  font-weight: 500;
+}
